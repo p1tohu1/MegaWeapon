@@ -1,5 +1,5 @@
 # MegaWeapon
-我不是源神
+提瓦特蒙德研究院
 
 我们的基模型分别为YOLOV9、CO-DETR(ResNet50)、CO-DETR2(SwinBase)
 
